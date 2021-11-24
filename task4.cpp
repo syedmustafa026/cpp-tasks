@@ -41,6 +41,8 @@ int main()
     avg = sum / 4;
     cout << "\n Average of four num is: " << avg;
  
+    
+    
  // task 2
     int cel;
     cout << "Enter temperature in celcius \n";
